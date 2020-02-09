@@ -233,10 +233,12 @@ main{
   font-size: 20px;
   color: #000;
   padding-bottom: 5px;
+  text-align: center;
 }
 .contact-text{
   font-size: 16px;
   margin-bottom: 20px;
+  text-align: center;
 }
 .contact-iconbox{
   width: 400px;
